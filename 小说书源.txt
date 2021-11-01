@@ -1,0 +1,14 @@
+
+
+
+集合源壹(可直接URL导入):
+
+https://gedoor.github.io/MyBookshelf/bookSource.json
+
+https://bookSources.github.io
+
+https://blackholep.github.io/20190815set1
+
+集合源贰(打开链接后找需要的源,复制URL导入):
+
+https://moonbegonia.github.io/Source/
